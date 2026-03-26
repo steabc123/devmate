@@ -255,4 +255,4 @@ v0.2.0 将支持 `--auth` 参数自动生成认证模块。当前需手动添加
 
 ## 许可证
 
-Apache License 2.0 © 2026 DevMate Team
+Apache License 2.0 © 2026 xiaomao
