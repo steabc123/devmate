@@ -6,6 +6,20 @@
 
 ---
 
+> **🌟 关于作者 | About Author**
+>
+> 👋 我是一名学生 (I'm a student)，这是第一次尝试写这种规模的项目 (this is my first time working on a project of this scale)。
+>
+> 💡 虽然代码可能还不够成熟 (though the code may not be perfect yet)，但我会持续学习和改进 (but I'm committed to learning and improving)。
+>
+> ⭐ 如果这个项目对你有帮助，或者你看到了我的成长，请给我一个 **Star** ⭐
+>
+> ⭐ If you find this project helpful or want to support my growth, please give it a **Star** ⭐
+>
+> 你的鼓励是我前进的动力！(Your encouragement means the world to me!)
+
+---
+
 ## 使用场景
 
 传统开发需要经历需求分析、技术选型、搭建项目、编码、联调测试到部署上线，整个过程大约需要 21 小时。
